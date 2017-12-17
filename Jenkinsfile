@@ -1,5 +1,6 @@
 #!/bin/bash +x
 //TODO - Make SVN and GIT Checkout steps perfect with Jenkins way. Do not use Shell way.
+
 def temporaryDockerRegistry = tempDockerRegistry
 def permanentDockerRegistry = permDockerRegistry
 
